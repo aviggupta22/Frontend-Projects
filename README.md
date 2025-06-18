@@ -7,5 +7,6 @@ Welcome to my collection of frontend projects built using **HTML**, **CSS**, and
 ## 📁 Projects Included
 
 - ✅ Age Calculator  
-- ✅ Calculator  
+- ✅ Calculator
+- ✅ Stop Watch
 - ✅ More coming soon...
